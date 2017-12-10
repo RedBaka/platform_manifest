@@ -12,5 +12,5 @@
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="rr" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="rr" />
   <project path="frameworks/base" name="android_frameworks_base" remote="rr" />
-  <project path="packages/apps/Settings" name="Resurrection_packages_apps_Settings" remote="rr" />
+  <project path="packages/apps/Settings" name="RedBaka/Resurrection_packages_apps_Settings" remote="rr" />
 </manifest>
